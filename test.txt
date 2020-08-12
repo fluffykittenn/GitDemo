@@ -2,8 +2,7 @@ Hello World! Checking synchronization of remote repo with my local one:)
 THE ZEND-AVESTA
 PART II
 The Sîrôzahs, Yasts and Nyâyis
-Translated by
-James Darmesteter
+<Hello GitHub!>
 
 Anonymous, “Sīrōzahs” 
 
